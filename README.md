@@ -66,7 +66,7 @@ make best play with python
     - Build it. Break it. Figure out why. Make it better.🌱
 </br>
 <div align="center">
-  <sub> Did you know that 99% of people give up when they are defeated but only 1% get back up ??? i am one of thse 1% becuse i will fight for what i want , even if it means being destroyed🌱 ...</sub>
+  <sub>dont stop 🛑 </sub>
 </div>
 
 
