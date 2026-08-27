@@ -31,7 +31,7 @@ My Approach to Coding Just like in *Taekwondo* coding is about:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
   </br>
 </p>
-پ
+
 ✨best project✨
 </br>
 - python
