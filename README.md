@@ -35,13 +35,9 @@ My Approach to Coding Just like in *Taekwondo* coding is about:
 ✨best project✨
 </br>
 - python
-</br>
 - desain site
-</br>
 - git hub
-</br>
 → View project
-</br>
 → View site
 </br>
 
@@ -55,19 +51,13 @@ make best play with python
 💫I use💫
 </br>
  - gitbash
- </br>
  - vs code
- </br>
  - anaconda
- </br>
 -  wordpress
 </br>
 🌱 i learning🌱
-</br>
 - Ai
-</br>
 - git hub
-</br>
 - desain site
 </br>
 
