@@ -31,8 +31,7 @@ My Approach to Coding Just like in *Taekwondo* coding is about:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
   </br>
 </p>
--------------------------------------------------------------------------------------------------
-</br>
+پ
 ✨best project✨
 </br>
 - python
@@ -45,14 +44,14 @@ My Approach to Coding Just like in *Taekwondo* coding is about:
 </br>
 → View site
 </br>
--------------------------------------------------------------------------------------------------
+
 🧩play🧩
 </br>
 make best play with python 
 </br>
 → Visit the play
 </br>
--------------------------------------------------------------------------------------------------
+
 💫I use💫
 </br>
  - gitbash
@@ -63,7 +62,6 @@ make best play with python
  </br>
 -  wordpress
 </br>
--------------------------------------------------------------------------------------------------
 🌱 i learning🌱
 </br>
 - Ai
@@ -72,7 +70,7 @@ make best play with python
 </br>
 - desain site
 </br>
--------------------------------------------------------------------------------------------------
+
 💭 My approach
 </br>
     - Build it. Break it. Figure out why. Make it better.🌱
