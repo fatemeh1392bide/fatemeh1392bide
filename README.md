@@ -37,9 +37,9 @@ My Approach to Coding Just like in *Taekwondo* coding is about:
 </br>
 - python
 - desain site
-- git hub
-→ View project
-→ View site
+- git hub</br>
+→ View project</br>
+→ View site</br>
 </br>
 
 🧩play🧩
