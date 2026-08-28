@@ -9,7 +9,8 @@
 </br>
 My Approach to Coding Just like in *Taekwondo* coding is about:
 </br>
-- **Discipline:** Writing clean, logical code.
+- **Discipline:**</br>
+- Writing clean, logical code.
   </br>
 - **Persistence:**
   </br>
