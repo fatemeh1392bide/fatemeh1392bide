@@ -13,22 +13,12 @@
 
  </br>
 </br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ </br>
+</br>
+ </br>
+</br>
+ </br>
+</br>
 </br>My Approach to Coding Just like in *Taekwondo* coding is about:
 - **Discipline:**</br>
 - Writing clean, logical code.
