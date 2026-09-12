@@ -27,7 +27,7 @@ My Approach to Coding Just like in *Taekwondo* coding is about:
 
  - Most taekwondo practitioners became taekwondo practitioners when everyone else in their position became depressed</br>
 
-</br>
+
 --------------------------------------------------------------------------------------------------
 </br>
 </br>🛠️ Tech Stack & Tools 🛠️
