@@ -1,7 +1,9 @@
-<img width="320" height="320" alt="e_uyc8cFKuml_iPRVBWIm_CnPWw-swS57OAJRHawdVe4N27m8A" src="https://github.com/user-attachments/assets/89b69cc5-9a06-43b8-8c9b-a34c0296358c" />
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=500&lines=💟+Hey+👋+,+im+Fatemeh+💟)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=500&lines=💟+welcom+to+my+git+hub+site💟)</br>
+
+<img width="320" height="320" alt="e_uyc8cFKuml_iPRVBWIm_CnPWw-swS57OAJRHawdVe4N27m8A" src="https://github.com/user-attachments/assets/89b69cc5-9a06-43b8-8c9b-a34c0296358c" />
 
 -----------------------------------------------------------------------------
 
