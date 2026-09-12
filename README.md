@@ -7,9 +7,7 @@
 -----------------------------------------------------------------------------
 </br>✨ What I'm building ??? ✨
 </br>
-🥋Taekwondo🥋 : </br>
- </br>  
- <img width="320" height="320" alt="e_uyc8cFKuml_iPRVBWIm_CnPWw-swS57OAJRHawdVe4N27m8A" src="https://github.com/user-attachments/assets/89b69cc5-9a06-43b8-8c9b-a34c0296358c" />
+🥋Taekwondo🥋 : 
  </br>
 My Approach to Coding Just like in *Taekwondo* coding is about:
 - **Discipline:**</br>
@@ -24,8 +22,9 @@ My Approach to Coding Just like in *Taekwondo* coding is about:
 - Generate beautiful, customizable images for GitHub repositories.
   </br>
   - Most taekwondo practitioners became taekwondo practitioners when everyone else in their position became depressed</br>
+     <img width="320" height="320" alt="e_uyc8cFKuml_iPRVBWIm_CnPWw-swS57OAJRHawdVe4N27m8A" src="https://github.com/user-attachments/assets/89b69cc5-9a06-43b8-8c9b-a34c0296358c" />
    - Taekwondo with coding is not difficult because if you have worked hard for 2 years you will understand </br>
-   <img width="320" height="320" alt="e_uyc8cFKuml_iPRVBWIm_CnPWw-swS57OAJRHawdVe4N27m8A" src="https://github.com/user-attachments/assets/89b69cc5-9a06-43b8-8c9b-a34c0296358c" />
+
    
 --------------------------------------------------------------------------------------------------
 </br>
