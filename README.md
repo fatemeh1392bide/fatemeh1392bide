@@ -4,8 +4,8 @@
 
 <img width="320" height="320" align="left" alt="e_uyc8cFKuml_iPRVBWIm_CnPWw-swS57OAJRHawdVe4N27m8A" src="https://github.com/user-attachments/assets/4c1a7f3a-68c0-4246-aec3-4334dfb461d5" /></br>
 
- - Taekwondo with coding is not difficult because if you have worked hard for 2 years you will understand </br>
---------------------------------------------------------------------------------------------------
+
+
 </br>✨ What I'm building ??? ✨
 </br>
 🥋Taekwondo🥋 : </br>
@@ -23,7 +23,7 @@ My Approach to Coding Just like in *Taekwondo* coding is about:
 - Generate beautiful, customizable images for GitHub repositories.
   </br>
   - Most taekwondo practitioners became taekwondo practitioners when everyone else in their position became depressed</br>
-  
+   - Taekwondo with coding is not difficult because if you have worked hard for 2 years you will understand </br>
 --------------------------------------------------------------------------------------------------
 </br>
 </br>🛠️ Tech Stack & Tools 🛠️
