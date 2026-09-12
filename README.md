@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=500&lines=💟+welcom+to+my+git+hub+site💟)
 
 <img width="320" height="320" align="left" alt="e_uyc8cFKuml_iPRVBWIm_CnPWw-swS57OAJRHawdVe4N27m8A" src="https://github.com/user-attachments/assets/4c1a7f3a-68c0-4246-aec3-4334dfb461d5" />
--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 </br>✨ What I'm building ??? ✨
 </br>
 🥋Taekwondo🥋 : </br>
