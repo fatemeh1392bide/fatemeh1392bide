@@ -9,20 +9,8 @@
 🥋Taekwondo🥋 : </br>
  </br>  
  
-  <img width="320" height="320" align="left" alt="e_uyc8cFKuml_iPRVBWIm_CnPWw-swS57OAJRHawdVe4N27m8A" src="https://github.com/user-attachments/assets/4c1a7f3a-68c0-4246-aec3-4334dfb461d5" /></br>
 
- </br>
-</br>
- </br>
-</br>
- </br>
-</br>
- </br>
-</br>
- </br>
-</br>
- </br>
-</br>
+
 </br>My Approach to Coding Just like in *Taekwondo* coding is about:
 - **Discipline:**</br>
 - Writing clean, logical code.
