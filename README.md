@@ -41,7 +41,7 @@ My Approach to Coding Just like in *Taekwondo* coding is about:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
   </br>
 </p>
-
+--------------------------------------------------------------------------------------------------
 ✨best project✨
 </br>
 - python
@@ -49,14 +49,15 @@ My Approach to Coding Just like in *Taekwondo* coding is about:
 - git hub</br>
 → View project</br>
 → View site</br>
-</br>
+--------------------------------------------------------------------------------------------------
 
 🧩play🧩
 </br>
 make best play with python 
 </br>
 → Visit the play
-</br>
+
+--------------------------------------------------------------------------------------------------
 
 💫I use💫
 </br>
