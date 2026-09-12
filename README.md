@@ -29,8 +29,8 @@ My Approach to Coding Just like in *Taekwondo* coding is about:
 
 
 --------------------------------------------------------------------------------------------------
-</br>
-</br>🛠️ Tech Stack & Tools 🛠️
+
+🛠️ Tech Stack & Tools 🛠️
 </br>
 <p> 
   </br>
@@ -67,7 +67,7 @@ make best play with python
  - vs code
  - anaconda
 -  wordpress
--  
+
 --------------------------------------------------------------------------------------------------
 
 🌱 i learning🌱
