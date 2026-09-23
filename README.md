@@ -24,7 +24,7 @@ My Approach to Coding Just like in *Taekwondo* coding is about:
   </br>
  - Taekwondo with coding is not difficult because if you have worked hard for 2 years you will understand </br>
  </br>
-   <img width="320" height="320" alt="e_uyc8cFKuml_iPRVBWIm_CnPWw-swS57OAJRHawdVe4N27m8A" src="https://github.com/user-attachments/assets/89b69cc5-9a06-43b8-8c9b-a34c0296358c" />
+ 
 
  - Most taekwondo practitioners became taekwondo practitioners when everyone else in their position became depressed</br>
 
