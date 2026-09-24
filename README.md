@@ -3,32 +3,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=500&lines=💟+Hey+👋+,+im+Fatemeh+💟)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=500&lines=💟+welcom+to+my+git+hub+site💟)</br>
 
-
------------------------------------------------------------------------------
-
-✨ What I'm building ??? ✨
-</br>
-🥋Taekwondo🥋 : 
- </br>
-My Approach to Coding Just like in *Taekwondo* coding is about:
-- **Discipline:**</br>
-- Writing clean, logical code.
-  </br>
-- **Persistence:**
-  </br>
-- Fixing those annoying bugs until they surrender
-  </br>
-- **Growth:** Always leveling up to the next belt (or the next project!).
-  </br>
-- Generate beautiful, customizable images for GitHub repositories.
-  </br>
- - Taekwondo with coding is not difficult because if you have worked hard for 2 years you will understand </br>
- </br>
- 
-
- - Most taekwondo practitioners became taekwondo practitioners when everyone else in their position became depressed</br>
-
-
 --------------------------------------------------------------------------------------------------
 
 🛠️ Tech Stack & Tools 🛠️
